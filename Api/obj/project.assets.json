@@ -3703,11 +3703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Api/Api.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/phen-clean-temp/Api/Api.csproj",
       "projectName": "Api",
-      "projectPath": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Api/Api.csproj",
+      "projectPath": "/Users/mac/Desktop/phen-clean-temp/Api/Api.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Api/obj/",
+      "outputPath": "/Users/mac/Desktop/phen-clean-temp/Api/obj/",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [

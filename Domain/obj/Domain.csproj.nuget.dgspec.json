@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Domain/Domain.csproj": {}
+    "/Users/mac/Desktop/phen-clean-temp/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Domain/Domain.csproj": {
+    "/Users/mac/Desktop/phen-clean-temp/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/phen-clean-temp/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Domain/Domain.csproj",
+        "projectPath": "/Users/mac/Desktop/phen-clean-temp/Domain/Domain.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Domain/obj/",
+        "outputPath": "/Users/mac/Desktop/phen-clean-temp/Domain/obj/",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [

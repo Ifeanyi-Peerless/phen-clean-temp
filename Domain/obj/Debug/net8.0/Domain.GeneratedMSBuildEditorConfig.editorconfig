@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain
-build_property.ProjectDir = /Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Domain/
+build_property.ProjectDir = /Users/mac/Desktop/phen-clean-temp/Domain/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

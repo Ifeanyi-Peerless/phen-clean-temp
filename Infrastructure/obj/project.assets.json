@@ -3757,11 +3757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/phen-clean-temp/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/mac/Desktop/phen-clean-temp/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Infrastructure/obj/",
+      "outputPath": "/Users/mac/Desktop/phen-clean-temp/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [

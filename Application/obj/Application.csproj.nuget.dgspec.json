@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Application/Application.csproj": {}
+    "/Users/mac/Desktop/phen-clean-temp/Application/Application.csproj": {}
   },
   "projects": {
-    "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Application/Application.csproj": {
+    "/Users/mac/Desktop/phen-clean-temp/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Application/Application.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/phen-clean-temp/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Application/Application.csproj",
+        "projectPath": "/Users/mac/Desktop/phen-clean-temp/Application/Application.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/REFACTOR-PLATFORM/phen-platforms/Application/obj/",
+        "outputPath": "/Users/mac/Desktop/phen-clean-temp/Application/obj/",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
